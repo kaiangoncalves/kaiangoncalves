@@ -15,7 +15,7 @@
   <img align="center" alt="kaian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kaian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kaian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="kaian-gif" src="https://giphy.com/gifs/fifa-brazil-trophy-ronaldinho-kC8x2sN2DnHlGfFNAS">
+  <img height="150" align="right" alt="kaian-gif" src="https://cdn.discordapp.com/attachments/517096157353213952/880096636091633754/giphy_1.gif">
 </div>
   
   ##
