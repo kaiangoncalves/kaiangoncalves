@@ -1,8 +1,5 @@
 ### Hi there 👋 i'm Kaian Gonçalves
-
-- 🔭 Aprendendo
-- 🌱 Atualmente estudando JavaScript e Python
-
+  ##
 <div>
   <a href="https://github.com/kaiangoncalves">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=kaiangoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
