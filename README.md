@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Kaian Gonçalves
+### Hi there 👋 i'm Kaian
   ##
 <div>
   <a href="https://github.com/kaiangoncalves">
